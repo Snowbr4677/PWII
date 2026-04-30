@@ -1,14 +1,14 @@
 # atualizações 22/04
 criações: <br>
 pasta data
-<br>
+<br><br>
 pasta src
 dentro da src: controller, model, view.
-<br>
+<br><br>
 dentro do model: Cliente.js
-<br>
+<br><br>
 dentro da view app.js
-<br>
+<br><br>
 Instalação do Express
 <br>
 e .gitignore para barrar pastas do node, e pckg-lock.json
