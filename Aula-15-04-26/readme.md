@@ -12,3 +12,10 @@ dentro da view app.js
 Instalação do Express
 <br>
 e .gitignore para barrar pastas do node, e pckg-lock.json
+
+# att 12/05
+Criação do conteudo em <br> 
+routes/clienteRoutes.js <br>
+e <br>
+controllers/clienteController.js <br>
+
